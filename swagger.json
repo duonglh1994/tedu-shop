@@ -13,7 +13,7 @@
         "/MopiPay": {
             "post": {
                 "tags": [
-                    "pet"
+                    "MobiPay"
                 ],
                 "summary": "Add a new pet to the store",
                 "description": "",
