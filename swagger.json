@@ -10,7 +10,7 @@
         "http"
     ],
     "paths": {
-        "/pet": {
+        "/MopiPay": {
             "post": {
                 "tags": [
                     "pet"
